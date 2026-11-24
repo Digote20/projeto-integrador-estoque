@@ -2,6 +2,10 @@
 
 Projeto Integrador de Laboratório de Programação. Aplicação de terminal para cadastrar produtos, consultar saldos e registrar entradas e saídas.
 
+## Documentação do projeto
+
+Consulte a [documentação técnica detalhada](DOCUMENTACAO.md) para conhecer o problema, as regras, as funções do código, os testes e as limitações identificadas.
+
 ## Como executar
 
 Com o Python 3 instalado, abra o terminal na pasta do projeto e execute:
